@@ -1,0 +1,23 @@
+[
+  {
+    "key": "user:123",
+    "value": {
+      "email": "jeremy@getampt.com",
+      "name": "Jeremy"
+    }
+  },
+  {
+    "key": "user:1234",
+    "value": {
+      "email": "bill@developer.com",
+      "name": "Bill"
+    }
+  },
+  {
+    "key": "user:12345",
+    "value": {
+      "email": "michelle@developer.com",
+      "name": "Michelle"
+    }
+  }
+]

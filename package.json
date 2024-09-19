@@ -1,0 +1,25 @@
+{
+  "name": "hono",
+  "version": "1.0.0",
+  "description": "Ampt Hono starter template",
+  "private": true,
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "ampt",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
+  },
+  "dependencies": {
+    "@ampt/data": "^1.0.26",
+    "@ampt/sdk": "^1",
+    "hono": "^3",
+    "ulid": "^2.3.0"
+  },
+  "ampt": {
+    "app": "gitpod-app",
+    "org": "demo"
+  },
+  "devDependencies": {
+    "@ampt/cli": "^1.1.16"
+  }
+}

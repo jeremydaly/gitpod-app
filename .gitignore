@@ -1,0 +1,7 @@
+/.ampt
+/node_modules
+/package-lock.json
+.amptrc
+.ampt*rc
+.ampt/
+.DS_Store
